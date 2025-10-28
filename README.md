@@ -2,6 +2,8 @@
 
 This assignment provides hands-on experience with Apache Spark by analyzing real-world Spark cluster logs using PySpark. You will set up a Spark cluster on AWS EC2 and perform distributed data analysis on approximately 2.8 GB of production log data.
 
+
+
 ## Overview
 
 You will analyze logs from 194 Spark applications running on YARN clusters between 2015-2017, containing 3,852 container log files. The dataset includes ApplicationMaster logs and Executor logs that reveal insights about resource allocation, task execution, performance patterns, and cluster behavior.
@@ -630,3 +632,4 @@ Ensure your repository includes all deliverables listed above.
 ## License
 
 MIT License - See LICENSE file for details.
+
