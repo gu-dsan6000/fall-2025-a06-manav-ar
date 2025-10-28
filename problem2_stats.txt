@@ -1,0 +1,18 @@
+================================================================================
+Problem 2: Cluster Usage Analysis - Statistics
+================================================================================
+
+Dataset Overview:
+  Unique clusters: 1
+  Total applications: 1
+
+Applications per Cluster:
+  Cluster 1485248649253: 1,601 applications
+
+Application Duration Statistics:
+  Mean duration: 963.00 seconds
+  Median duration: 963.00 seconds
+  Min duration: 963.00 seconds
+  Max duration: 963.00 seconds
+
+================================================================================
