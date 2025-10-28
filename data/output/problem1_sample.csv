@@ -1,0 +1,11 @@
+log_entry,log_level
+17/06/08 13:44:37 INFO executor.Executor: Finished task 1.0 in stage 669.0 (TID 26761). 2667 bytes result sent to driver,INFO
+17/06/08 13:35:21 INFO output.FileOutputCommitter: File Output Committer Algorithm version is 1,INFO
+"17/06/08 13:34:23 INFO python.PythonRunner: Times: total = 42, boot = 13, init = 29, finish = 0",INFO
+"17/06/08 13:47:02 INFO storage.MemoryStore: Block rdd_1267_32 stored as bytes in memory (estimated size 16.0 B, free 4.2 MB)",INFO
+17/06/08 13:38:02 INFO executor.Executor: Running task 23.0 in stage 272.0 (TID 10903),INFO
+17/06/08 13:37:43 INFO executor.CoarseGrainedExecutorBackend: Got assigned task 9390,INFO
+"17/06/08 13:37:34 INFO storage.MemoryStore: Block broadcast_229_piece0 stored as bytes in memory (estimated size 5.9 KB, free 1596.8 KB)",INFO
+17/06/08 13:35:36 INFO output.FileOutputCommitter: File Output Committer Algorithm version is 1,INFO
+"17/06/08 13:47:01 INFO python.PythonRunner: Times: total = 40, boot = 19, init = 21, finish = 0",INFO
+17/06/08 13:35:18 INFO executor.CoarseGrainedExecutorBackend: Got assigned task 5634,INFO
